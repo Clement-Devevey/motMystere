@@ -19,4 +19,4 @@ void gestionScore(std::vector<int> &score, int& nbTentative);
 void userTry(const std::string& mot_mystere,  std::string& shuffledMot, std::vector<int> &score);
 
 
-#endif // CALC_MOY_H_INCLUDED!
+#endif // CALC_MOY_H_INCLUDED
